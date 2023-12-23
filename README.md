@@ -91,7 +91,7 @@ I am a passionate DevOps Engineer with expertise in cloud technologies, automati
 <!-- Connect with Me Section -->
 ## Connect with Me
 - 📫 Email: balavignesh999@gmail.com
-- LinkedIn: https://www.linkedin.com/in/bala-vignesh-312148201/
+- LinkedIn: https://www.linkedin.com/in/balavignesh-manoharan/
 - GitHub: https://github.com/balavi7
 
 <!-- Blog Section (Optional) -->
